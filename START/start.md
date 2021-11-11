@@ -13,5 +13,4 @@ If everything about these instructions is clear, please [visit his house and inv
 I thank you again for your agreeing to this undertaking, and wish you the best of luck
 
 Cordially,
-
-   -Noyes Mason
+    -Noyes Mason
