@@ -1,7 +1,7 @@
 # Randolph Carter
 
 <p>We have been told by his servant that, on March 23rd, Randolph Carter
-left his houes in order to visit his family home in Arkham, Massachusetts.
+left his house in order to visit his family home in Arkham, Massachusetts.
 This servant reports that all he brought with him was a strange box with
 horrifying symbols on them, and that he knew there to be a silver key
 in this box the prior week, when he had helped Carter open the box.</p>
