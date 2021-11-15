@@ -15,4 +15,7 @@ water even <b>SOUNDS</b> cool. But would indulging in a swim in this water be
 irresponsible when you have such an important task to deal with?</p>
 
 [I have plenty of time, ENTER THE WATER!](SpringSwim.md)
-[Maybe I should finish my job first]()
+
+<p> </p>
+
+[Maybe I should finish my job first](InvestigateTransition1.md)
