@@ -8,7 +8,7 @@ to help us!</p>
 I have attached here a [copy of the summary for this case](../Background/Information/Starting-Info.md). Please read it carefully so that you
 do not miss any details regarding this case of utmost importance.
 
-If everything about these instructions is clear, [visit his house and investigate the area](../Background/Story/Beginning-Arrival.md)
+If everything about these instructions is clear, [visit his vehicle and investigate the area](../Background/Story/Beginning-Arrival.md)
 
 <p>I thank you again for your agreeing to this undertaking, and wish you the best of luck</p>
 
