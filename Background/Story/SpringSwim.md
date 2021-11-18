@@ -1,4 +1,4 @@
-# August 2nd, 1922; Miskatonic 
+# August 2nd, 1922; Miskatonic Spring
 ### The Waters of the Spring
 
 <p>Swimming in the Miskatonic Spring, you feel very refreshed. After
