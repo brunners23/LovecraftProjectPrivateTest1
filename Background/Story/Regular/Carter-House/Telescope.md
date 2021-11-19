@@ -11,4 +11,6 @@ It is probably better that you did not open the box.</p>
 
 [Yes](Telescope-Evidence.md)
 
+<p> </p>
+
 [No](No-Telescope-Evidence.md)
