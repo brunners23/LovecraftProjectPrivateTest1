@@ -18,4 +18,4 @@ irresponsible when you have such an important task to deal with?</p>
 
 <p> </p>
 
-[Maybe I should finish my job first](InvestigateTransition1.md)
+[Maybe I should finish my job first](Regular/InvestigateTransition1.md)

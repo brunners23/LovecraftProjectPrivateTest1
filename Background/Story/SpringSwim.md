@@ -17,7 +17,7 @@ taste it, but that you also are tasting it, that you are ingesting the
 waters from this spring.</p>
 
 You surface from the river immediately, deciding that you have spent
-enough time fooling around and should begin [investigating the area](InvestigateTransition1.md).
+enough time fooling around and should begin [investigating the area](IWentSwimming/InvestigateTransition1.md).
 
 <p>However, as you dry off and begin preparations to investigate the
 surrounding mountains, you feel an odd sensation inside of you, and
