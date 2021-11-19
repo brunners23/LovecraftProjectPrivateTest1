@@ -8,13 +8,13 @@ in this box the prior week, when he had helped Carter open the box.</p>
 
 <p>Based on the descriptions of Carter's destination, his car, and the box,
 we believe that we have found where he either left or was taken from his
-vehicle: halfway up the mountain to his family home. In his car, we have
-found the box that he was said to carry with him (and have taken it from the
-scene so that you are not haunted by its horrible engravings); however, we
-have thus far failed to locate the silver key which he was said to have on
-him at the time of his disappearance. We think that the locating of, or the
-definite inability to locate, this item will tell us more about what happened
-to Mr. Carter.</p>
+vehicle: halfway up the mountain to his family home, which has been 
+abandoned for decades now. In his car, we have found the box that he was said 
+to carry with him (and have taken it from the scene so that you are not haunted 
+by its horrible engravings); however, we have thus far failed to locate the 
+silver key which he was said to have on him at the time of his disappearance. 
+We think that the locating of, or the definite inability to locate, this item 
+will tell us more about what happened to Mr. Carter.</p>
 
 <p>Our current theories are as follows:</p>
 
